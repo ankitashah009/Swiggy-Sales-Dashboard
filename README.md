@@ -1,4 +1,4 @@
-# Swiggy Sales Dashboard — Excel
+# Swiggy Sales Dashboard - Excel
 
 ## Project Overview
 
@@ -39,7 +39,7 @@ Supporting worksheet used within the workbook.
 
 The dashboard uses multiple visualization techniques to present different aspects of the sales data.
 
-### 1. Line Chart — Monthly Sales Trend
+### 1. Line Chart - Monthly Sales Trend
 Used to visualize how sales change over time and identify trends in monthly performance.
 
 Purpose:
@@ -48,7 +48,7 @@ Purpose:
 - Compare performance across periods
 
 
-### 2. Doughnut Chart — Veg vs Non-Veg Sales
+### 2. Doughnut Chart - Veg vs Non-Veg Sales
 Used to show the proportion of sales generated from vegetarian and non-vegetarian categories.
 
 Purpose:
@@ -57,7 +57,7 @@ Purpose:
 - Present part-to-whole relationships
 
 
-### 3. Bar Chart — Sales by Day
+### 3. Bar Chart - Sales by Day
 Displays sales performance across the days of the week.
 
 Categories:
@@ -75,7 +75,7 @@ Purpose:
 - Understand customer ordering patterns
 
 
-### 4. Bar Chart — Sales by City
+### 4. Bar Chart - Sales by City
 Used to compare sales performance across different cities.
 
 Cities represented include:
@@ -92,7 +92,7 @@ Purpose:
 - Understand regional sales performance
 
 
-### 5. Bar Chart — Sales by Rating
+### 5. Bar Chart - Sales by Rating
 Used to examine the relationship between customer ratings and sales distribution.
 
 Purpose:
@@ -101,7 +101,7 @@ Purpose:
 - Explore potential relationships between ratings and sales
 
 
-### 6. 3D Pie Chart — State-wise Sales Distribution
+### 6. 3D Pie Chart - State-wise Sales Distribution
 Used to visualize sales distribution across Indian states.
 Purpose:
 - Show geographical contribution to sales
