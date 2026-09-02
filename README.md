@@ -116,14 +116,14 @@ Purpose:
 
 The project applies several data visualization principles:
 
--Trend Analysis — Line charts for time-based sales trends
-- Part-to-Whole Analysis — Doughnut and pie charts
-- Category Comparison — Bar charts
-- Geographical Analysis — State-wise sales visualization
-- Ranking & Comparison — City and rating-based comparisons
-- KPI Visualization — Highlighting important performance metrics
-- Interactive Filtering — Slicers for dynamic dashboard exploration
-- Pivot-Based Visualization — Charts generated from summarized Pivot Table data
+-Trend Analysis - Line charts for time-based sales trends
+- Part-to-Whole Analysis - Doughnut and pie charts
+- Category Comparison - Bar charts
+- Geographical Analysis - State-wise sales visualization
+- Ranking & Comparison - City and rating-based comparisons
+- KPI Visualization - Highlighting important performance metrics
+- Interactive Filtering - Slicers for dynamic dashboard exploration
+- Pivot-Based Visualization - Charts generated from summarized Pivot Table data
 
 
 ##  Excel Techniques Used
@@ -157,12 +157,11 @@ The project applies several data visualization principles:
 
 ## Tools Used
 
-| Tool | Purpose |
-| Microsoft Excel | Data analysis and dashboard development |
-| Pivot Tables | Data aggregation and analysis |
-| Pivot Charts | Interactive data visualization |
-| Slicers | Interactive filtering |
-| Excel Charts | Visual representation of insights |
+Microsoft Excel - Data analysis and dashboard development 
+Pivot Tables - Data aggregation and analysis 
+Pivot Charts - Interactive data visualization 
+Slicers - Interactive filtering 
+Excel Charts - Visual representation of insights 
 
 
 ## Key Analytical Areas
